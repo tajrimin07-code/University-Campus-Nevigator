@@ -68,6 +68,4 @@ Shortest Route: Auditorium -> Cafeteria -> CSE Building
 
 ## Conclusion
 This project demonstrates how Dijkstra's Shortest Path Algorithm can be used to solve a basic campus navigation problem. It also helps us understand the practical application of Graph Theory and shortest path algorithms.
-
-## GitHub Repository
-[University Campus Navigator – Source Code](https://github.com/tajrimin07-code/University-Campus-Nevigator)
+ 
